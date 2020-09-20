@@ -23,10 +23,13 @@ Languages and Tools:
 
      
 <a href="https://github.com/DSmnjuntak">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSmnjuntak&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSmnjuntak&hide_langs_below=1" />
 </a>
+
 <a href="https://github.com/DSmnjuntak">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=DSmnjuntak&show_icons=true&theme=dark&line_height=27" alt="My github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DSmnjuntak&show_icons=true&line_height=27" alt="My github stats"/>
 </a>
 <a href="https://github.com/DSmnjuntak/audioPlayer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DSmnjuntak&repo=audioPlayer&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DSmnjuntak&repo=audioPlayer" />
+<a href="https://github.com/DSmnjuntak/warungtendasteak">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DSmnjuntak&repo=warungtendasteak" />
