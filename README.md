@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-I’m currently learning Dart.
+I’m currently learning Python Language.
 
 Fun fact: I spend hours by hours just for listening songs.
 
